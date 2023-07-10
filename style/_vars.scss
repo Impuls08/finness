@@ -1,0 +1,20 @@
+// Container
+$containerWidth: 1510px;
+$containerPadding: 30px;
+
+// Breakpoints
+$breakpoint1450: 1449.98 + px;
+$breakpoint992: 991.98 + px;
+$breakpoint767: 767.98 + px;
+$breakpoint560: 560.98 + px;
+$breakpoint480: 479.98 + px; 
+
+// Colors
+$titleColor: #1B1B20;
+$textColor: #626262;
+$baseColor: #707070;
+
+// burger menu
+$burgerBreakpoint: $breakpoint767;
+$burgerColor: #000;
+$burgerActiveColor: #fefefe;
